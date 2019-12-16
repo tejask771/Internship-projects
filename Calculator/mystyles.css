@@ -1,0 +1,17 @@
+.title {
+  margin-bottom: 10px;
+  text-align: center;
+  color: #000000;
+  border: solid black 2px;
+}
+input[type="text"] {
+  background-color: rgb(196, 187, 187);
+  border: solid black 2px;
+  width: 100%;
+}
+input[type="button"] {
+  background-color: rgb(241, 195, 195);
+  color: black;
+  border: solid black 2px;
+  width: 100%;
+}
